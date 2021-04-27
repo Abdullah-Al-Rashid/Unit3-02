@@ -30,3 +30,20 @@ div {
   margin: 20px;
   margin: auto;
 }
+
+.hi {
+  background-color: transparent;
+  width: 500px;
+  border: 10px solid navy;
+  padding: 60px;
+  margin: 20px;
+  margin: auto;
+}
+
+.hello {
+  background-color: transparent;
+  width: 2000px;
+  border: 10px solid tomato;
+  padding: auto;
+  margin: auto;
+}
